@@ -74,33 +74,6 @@
           />
         </a>
         <a
-          href="https://www.cprogramming.com/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195841350-2901098c-8f98-46c7-86ed-49d4ed159981.svg"
-            alt="c"
-            width="40"
-            height="40"
-            style="object-fit: contain"
-          />
-        </a>
-        <a
-          href="https://www.w3schools.com/cpp/"
-          target="_blank"
-          rel="noreferrer"
-          style="object-fit: contain"
-        >
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195841353-92e35ea4-8511-4cb8-a6b5-5d508e15bedf.svg"
-            alt="cplusplus"
-            width="40"
-            height="40"
-            style="object-fit: contain"
-          />
-        </a>
-        <a
           href="https://www.w3schools.com/css/"
           target="_blank"
           rel="noreferrer"
@@ -200,15 +173,7 @@
             style="object-fit: contain"
           />
         </a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195841386-822b49f1-24cb-43fc-a9fb-60e59cae7fa6.svg"
-            alt="tailwind"
-            width="40"
-            height="40"
-            style="object-fit: contain"
-          />
-        </a>
+     
       </p>
       
 <br />
