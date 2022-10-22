@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nilesh Singh Chauhan</h1>
-<h3 align="center">A passionate and enthusiastic Full-Stack Web Developer from India</h3>
-<img align="right" alt="coding" widht="200" height="300" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+<h1 align="center">Welcome to my World! 👋, I'm Nilesh Singh Chauhan</h1>
+<h3   margin-bottom="20px" align="center">A passionate and enthusiastic Full-Stack Web Developer from India</h3>
+<img align="right" alt="coding"  marginTop="25px";  widht="150" height="250"  src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshsingh72&label=Profile%20views&color=0e75b6&style=flat" alt="nileshsingh72" /> </p>
 
 - 🌱 I’m currently learning ➺ **NodeJS, Express, MongoDB, Data Structures and Algorithms**
@@ -173,8 +173,6 @@
             style="object-fit: contain"
           />
         </a>
-     
-      </p>
       
 <br />
 🛠 Current Stats:
