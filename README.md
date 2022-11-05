@@ -34,15 +34,7 @@
             width="40"
             style="object-fit: contain"
         /></a>
-        <a href="https://www.hackerrank.com/sarojpahi" target="blank"
-          ><img
-            align="center"
-            src="https://user-images.githubusercontent.com/107534043/195843398-8c622fca-2688-44e8-ab04-29983185996f.svg"
-            alt="nileshsingh72"
-            height="40"
-            width="40"
-            style="object-fit: contain"
-        /></a>
+        
         <a href="https://www.leetcode.com/nileshsingh72" target="blank"
           ><img
             align="center"
