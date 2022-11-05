@@ -11,8 +11,9 @@
 
 - 📫 How to reach me ➺ **rnileshchauhan89@gmail.com**
   
-- 📝 Here is my resume ➺ [Resume](https://drive.google.com/file/d/1ypOQhWTxGYvXIKpVuF7YbOut6WLOmaC9/view?usp=sharing)
-  
+<!-- - 📝 Here is my resume ➺ [Resume](https://drive.google.com/file/d/1ypOQhWTxGYvXIKpVuF7YbOut6WLOmaC9/view?usp=sharing) -->
+ - 📝 Here is my resume ➺ <a target="_blank"  href="https://drive.google.com/file/d/1ypOQhWTxGYvXIKpVuF7YbOut6WLOmaC9/view?usp=sharing">Resume</a> 
+        
 - ⚡ Fun fact ➺ **Tomato is a fruit**
 
 <h3 align="left">Github Achievements:</h3>
