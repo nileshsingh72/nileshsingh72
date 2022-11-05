@@ -35,7 +35,7 @@
             width="40"
             style="object-fit: contain"
         /></a>
-        
+        </p>
         <a href="https://www.leetcode.com/nileshsingh72" target="blank"
           ><img
             align="center"
