@@ -27,7 +27,9 @@
       </p>
       <h3 align="left">Connect with me:</h3>
       <p align="left">
-        <a href="https://www.linkedin.com/in/nileshsingh99/" target="blank"
+  <div   display="flex" >
+    <p>
+<a href="https://www.linkedin.com/in/nileshsingh99/" target="_blank"
           ><img
             align="center"
             src="https://cdn3d.iconscout.com/3d/free/thumb/linkedin-4059209-3364061@0.png"
@@ -36,17 +38,22 @@
             width="40"
             style="object-fit: contain"
         /></a>
-        </p>
-        <a href="https://www.leetcode.com/nileshsingh72" target="blank"
+      </p>
+    
+ </p>
+        <a href="https://nileshsingh72.github.io/" target="_blank"
           ><img
             align="center"
-            src="https://user-images.githubusercontent.com/107534043/195843257-d0995ae4-4bac-4cf5-b432-5971a4a3562f.png"
+            src="https://cdn3d.iconscout.com/3d/premium/thumb/globe-web-6338348-5220256.png"
             alt="nileshsingh72"
             height="40"
             width="40"
             style="object-fit: contain"
         /></a>
       </p>
+</div>
+        
+       
       <h3 align="left">Languages and Tools:</h3>
       <p align="left">
         <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
