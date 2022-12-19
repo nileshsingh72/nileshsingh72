@@ -27,10 +27,10 @@
       </p>
       <h3 align="left">Connect with me:</h3>
       <p align="left">
-        <a href="https://codesandbox.com/nileshsingh72" target="blank"
+        <a href="https://www.linkedin.com/in/nileshsingh99/" target="blank"
           ><img
             align="center"
-            src="https://user-images.githubusercontent.com/107534043/195842746-1a1f6d5e-8f96-4661-bef3-e5c9c1b01d5b.png"
+            src="https://cdn3d.iconscout.com/3d/free/thumb/linkedin-4059209-3364061@0.png"
             alt="nileshsingh72"
             height="40"
             width="40"
