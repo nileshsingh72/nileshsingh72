@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ➺ **NodeJS, Express, MongoDB, Data Structures and Algorithms**
 
-- 👨‍💻 Take a look at my projects ➺ [My Portfolio](https://nileshsingh72.github.io/ target="_blank" )
+- 👨‍💻 Take a look at my projects ➺ [My Portfolio](https://nileshsingh72.github.io/  )
 <!-- -  👨‍💻 All of my projects are available at [My-Portfolio](https://nileshsingh72.github.io/) -->
 
 - 💬 Ask me about ➺ **ReactJS, NodeJS, MongoDB, Games, Data Structures and Algorithms**
