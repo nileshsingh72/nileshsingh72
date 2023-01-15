@@ -171,7 +171,7 @@
 <br />
 🛠 Current Stats:
 
-| ![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nileshsingh72&show_icons=true&locale=en&theme=tokyonight) | ![Nilesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nileshsingh72&theme=tokyonight) |
+| ![Nilesh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nileshsingh72&hide_border=true&hide_border=true) | ![Nilesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nileshsingh72&theme=tokyonight) |
 | :---: | :---: |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nileshsingh72&show_icons=true&locale=en&theme=tokyonight" alt="nileshsingh72" /></p>
