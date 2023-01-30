@@ -174,6 +174,8 @@
 | ![Nilesh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nileshsingh72&hide_border=true&hide_border=true) | ![Nilesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nileshsingh72&theme=swift) |
 | :---: | :---: |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nileshsingh72&show_icons=true&locale=en&theme=tokyonight" alt="nileshsingh72" /></p>
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=nileshsingh72&bg_color=fbf9f9&color=49511f&line=3e373e&point=ea3e3e"  margin-top="30px" margin-left="50px" height ="307"/>
 <br /><br />
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=nileshsingh72&theme=github" height ="307"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nileshsingh72&show_icons=true&locale=en" alt="nileshsingh72" /></p>
+
+
