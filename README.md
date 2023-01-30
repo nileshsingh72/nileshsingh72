@@ -176,6 +176,6 @@
 
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=nileshsingh72&bg_color=fbf9f9&color=49511f&line=3e373e&point=ea3e3e"  margin-top="30px" margin-left="50px" height ="307"/>
 <br /><br />
-<p><img align="left" src="https://github-readme-activity-graph.cyclic.app/graph?username=nileshsingh72&bg_color=fbf9f9&color=49511f&line=3e373e&point=ea3e3e" alt="nileshsingh72" /></p>
+
 
 
