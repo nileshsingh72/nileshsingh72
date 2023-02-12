@@ -1,20 +1,62 @@
 <h1 align="center">Welcome to my World! 👋, I'm Nilesh Singh Chauhan</h1>
-<h3   margin-bottom="20px" align="center">A passionate and enthusiastic Full-Stack Web Developer from India</h3>
+<h3   margin-bottom="20px" align="center">A Passionate and Enthusiastic Full-Stack Web Developer</h3>
 <img align="right" alt="coding"  marginTop="25px";  widht="150" height="250"  src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshsingh72&label=Profile%20views&color=0e75b6&style=flat" alt="nileshsingh72" /> </p>
 
-- 🌱 I’m currently learning ➺ **NodeJS, Express, MongoDB, Data Structures and Algorithms**
+- 🌱 I’m currently learning MERN
+- 👯 I’m looking to collaborate on Linkedin
+- 💬 Ask me about any MERN related stuff
+- 📫 You can reach me at rnileshchauhan89@gmail.com
+- <a href='https://drive.google.com/file/d/1ypOQhWTxGYvXIKpVuF7YbOut6WLOmaC9/view?usp=share_link' target="_blank" rel="noopener noreferrer" >
+   📝 Resume
+  </a>
 
-- 👨‍💻 Take a look at my projects ➺ [My Portfolio](https://nileshsingh72.github.io/)
 
-- 💬 Ask me about ➺ **ReactJS, NodeJS, MongoDB, Games, Data Structures and Algorithms**
 
-- 📫 How to reach me ➺ **rnileshchauhan89@gmail.com**
-  
-<!-- - 📝 Here is my resume ➺ [Resume](https://drive.google.com/file/d/1ypOQhWTxGYvXIKpVuF7YbOut6WLOmaC9/view?usp=sharing) -->
- - 📝 Here is my resume ➺ <a target="_blank"  href="https://drive.google.com/file/d/1ypOQhWTxGYvXIKpVuF7YbOut6WLOmaC9/view?usp=sharing">Resume</a> 
-        
-- ⚡ Fun fact ➺ **Tomato is a fruit**
+
+
+<br/>
+<br/>
+<br/>
+
+<h3 align='center'> 🔍 Find me here </h3>
+<div align='center'>
+
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/nileshsingh99/)
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://nileshsingh72.github.io/)
+  [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/nileshsingh72)
+</div>     
+<h2 align='center'> :pencil: Technical Skills</h2>
+ 
+
+<div align='center' style="display: flex">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-2e542d?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+</div>
+
+<br>
+
+<div align='center' style="display: flex;">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
+<br/>
+
 
 <h3 align="left">Github Achievements:</h3>
 <p align="left">
@@ -25,157 +67,19 @@
             alt="nileshsingh72"
         /></a>
       </p>
-      <h3 align="left">Connect with me:</h3>
-      <p align="left">
-      <p>
-      <a href="https://www.linkedin.com/in/nileshsingh99/" target="_blank"
-          ><img
-            align="center"
-            src="https://cdn3d.iconscout.com/3d/free/thumb/linkedin-4059209-3364061@0.png"
-            alt="nileshsingh72"
-            height="40"
-            width="40"
-            style="object-fit: contain"
-        /></a>
-        <a href="https://nileshsingh72.github.io/" target="_blank"
-          ><img
-            align="center"
-            src="https://www.pngfind.com/pngs/m/32-321388_the-internet-png-logo-internet-png-transparent-png.png"
-            alt="nileshsingh72"
-            height="40"
-            width="40"
-            style="object-fit: contain"
-        /></a>
-      </p>
-      <h3 align="left">Languages and Tools:</h3>
-      <p align="left">
-        <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195840442-098f80c1-e665-4e5b-b554-1d887322ad06.svg"
-            alt="babel"
-            width="40"
-            height="40"
-            style="object-fit: contain"
-          />
-        </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195841348-5ae7d322-f301-4eb9-808b-1ed9405b5e65.png"
-            alt="bootstrap"
-            width="40"
-            height="40"
-            style="object-fit: contain"
-          />
-        </a>
-        <a
-          href="https://www.w3schools.com/css/"
-          target="_blank"
-          rel="noreferrer"
-          style="object-fit: contain"
-        >
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195841356-0cf1202e-d33b-47d9-ae31-afb7923ce2de.svg"
-            alt="css3"
-            width="40"
-            height="40"
-            style="object-fit: contain"
-          />
-        </a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195841358-5e49c6aa-099a-447c-a65c-4866214e9ec3.svg"
-            alt="express"
-            width="40"
-            height="40"
-            style="object-fit: contain"
-          />
-        </a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195841360-87ce0f53-20c7-4a5c-a511-c3a7b1c17b5b.svg"
-            alt="firebase"
-            width="40"
-            height="40"
-            style="object-fit: contain; text-decoration: none"
-          />
-        </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195841362-9b9cabb7-b9dc-47f0-a77d-72667c3a986c.svg"
-            alt="git"
-            width="40"
-            height="40"
-            style="object-fit: contain"
-          />
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195841366-b151f2a8-1939-4155-a717-21bc69a53777.svg"
-            alt="html5"
-            width="40"
-            height="40"
-            style="object-fit: contain"
-          />
-        </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195841367-408dab0b-7089-4840-911b-bf17b7620fee.svg"
-            alt="java"
-            width="40"
-            height="40"
-            style="object-fit: contain"
-          />
-        </a>
-        <a
-          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-          target="_blank"
-          rel="noreferrer"
-          style="object-fit: contain"
-        >
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195841370-65acbf59-5b9e-4769-8812-019cc2b7e8e5.svg"
-            alt="javascript"
-            width="40"
-            height="40"
-            style="object-fit: contain"
-          />
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195841375-8ac43995-45f3-4b54-96d2-66ab893588ff.svg"
-            alt="mongodb"
-            width="40"
-            height="40"
-            style="object-fit: contain"
-          />
-        </a>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195841379-6cecec6b-bf95-4b9a-9aa3-a407f37db382.svg"
-            alt="nodejs"
-            width="40"
-            height="40"
-            style="object-fit: contain"
-          />
-        </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img
-            src="https://user-images.githubusercontent.com/107534043/195841383-4c95f0a0-28ef-4cbb-a2dd-ebff43fad0f3.svg"
-            alt="react"
-            width="40"
-            height="40"
-            style="object-fit: contain"
-          />
-        </a>
-      
-<br />
-🛠 Current Stats:
+
+## <a href="https://github.com/nileshsingh72"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 | ![Nilesh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nileshsingh72&hide_border=true&hide_border=true) | ![Nilesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nileshsingh72&theme=swift) |
 | :---: | :---: |
 
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=nileshsingh72&bg_color=fbf9f9&color=49511f&line=3e373e&point=ea3e3e"  margin-top="30px" margin-left="50px" height ="307"/>
-<br /><br />
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nileshsingh72&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
